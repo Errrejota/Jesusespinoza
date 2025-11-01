@@ -5,7 +5,7 @@
 <h1 style="font-family:'Segoe UI',sans-serif; font-weight:700;">Jesús Espinoza</h1>
 
 <p>
-🎓 <b>Ingeniería en Computación e Informática</b><br>
+ <b>Ingeniería en Computación e Informática</b><br>
 Universidad Andrés Bello 
 </p>
 
@@ -111,8 +111,7 @@ Agradezco la oportunidad de presentarme y quedo disponible para conversar sobre 
 <div align="center">
 
 ✉️ **jesusespinoza@ejemplo.cl**  
-🔗 ([![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús%20Espinoza-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-espinoza-88a21421a)
-) • [GitHub](https://github.com/Errejota)  
+🔗[LinkedIn](https://www.linkedin.com/in/jesus-espinoza-88a21421a) • [GitHub](https://github.com/Errejota)  
 📍 Santiago, Chile  
 
 </div>
