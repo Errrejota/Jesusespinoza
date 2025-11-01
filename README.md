@@ -111,7 +111,7 @@ Agradezco la oportunidad de presentarme y quedo disponible para conversar sobre 
 <div align="center">
 
 ✉️ **jesusespinoza@ejemplo.cl**  
-🔗[LinkedIn](https://www.linkedin.com/in/jesus-espinoza-88a21421a) • [GitHub](https://github.com/Errejota)  
+🔗[LinkedIn](https://www.linkedin.com/in/jesus-espinoza-88a21421a) • [GitHub](https://github.com/Errrejota)  
 📍 Santiago, Chile  
 
 </div>
