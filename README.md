@@ -41,7 +41,6 @@ React · Node.js · Express · MongoDB · Tailwind CSS
 Comunicación efectiva · Resolución de problemas · Trabajo en equipo · Adaptabilidad · Aprendizaje continuo  
 
 </div>
----
 
 ##  Proyectos Destacados
 
